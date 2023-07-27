@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+D:\Simplilearn classes\Practice Projects\Section8\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
